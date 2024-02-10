@@ -21,7 +21,7 @@ async def startcmd(client, message):
         )
     await message.reply_photo(
         photo="https://telegra.ph/file/6efe0fd4f1cbecb1a301d.png",
-        caption=f"<b>Hello {userMention},\n\nIᴍ Hᴇʀᴇ Tᴏ Rᴇᴅᴜᴄᴇ Yᴏᴜʀ Pʀᴏʙʟᴇᴍs..\nYᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..\nAsᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..\n\nMʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Film_Nest>FilmNest</a>\nMʏ Lᴏᴠᴇʀ : <a href=tg://settings/>Tʜɪs Pᴇʀsᴏɴ</a></b>",
+        caption=f"<b>Hello {userMention},\n\nIᴍ Hᴇʀᴇ Tᴏ Rᴇᴅᴜᴄᴇ Yᴏᴜʀ Pʀᴏʙʟᴇᴍs..\nYᴏᴜ Cᴀɴ Usᴇ Mᴇ As ʏᴏᴜʀ Pʀɪᴠᴀᴛᴇ Assɪsᴛᴀɴᴛ..\nAsᴋ Mᴇ Aɴʏᴛʜɪɴɢ...Dɪʀᴇᴄᴛʟʏ..\n\nMʏ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Film_Nest>FilmNest</a>\nMʏ Lᴏᴠᴇʀ : <a href=tg://settings/>Tʜɪs Pᴇʀsᴏɴ</a>\n\n\nExtra Command --》 /scan_ph</b>",
     )
     return
 
@@ -79,7 +79,7 @@ async def grp_res(client , message):
             )
     print(grp_query)
     if not grp_query:
-        return await message.reply_text("<b>Abe gadhe /bol k baad kuch likh to le !!.\n\nExample Use:\n<code>/bol Who is lord krshna??</code>\n\nHope you got it.Try it now..</b>")
+        return await message.reply_text("<b>Abe gadhe /bol k baad kuch likh to le !!.\n\nExample Use:\n<code>/bol Who is Ayush & Anmol??</code>\n\nHope you got it.Try it now..</b>")
     current_time = time.time()
     coolDownUser = message.from_user.id
     if (
