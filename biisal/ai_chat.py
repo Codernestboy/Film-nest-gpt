@@ -1,4 +1,4 @@
-# ©️biisal jai shree krishna 😎
+# ©️Bot nest
 from pyrogram import Client, filters , enums
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import requests
@@ -49,12 +49,12 @@ async def ai_res(message ,query):
                     )
             else:
                 cut_query_str = query[:77]
-                await message.reply_text(text=f"<b>ᴊᴀɪ sʜʀᴇᴇ ᴋʀɪsʜɴᴀ {userMention}\nʏᴏᴜʀ ǫᴜᴇʀʏ : <code>{cut_query_str}</code>\n\n{BOT_NAME} :\n{api_response}</b>",
+                await message.reply_text(text=f"<b>Enjoy Brooooooo..... {userMention}\nʏᴏᴜʀ ǫᴜᴇʀʏ : <code>{cut_query_str}</code>\n\n{BOT_NAME} :\n{api_response}</b>",
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
                                 InlineKeyboardButton(
-                                    "sᴛᴀʀᴛ ᴍᴇ 🚩", url=f"https://t.me/bisal_gpt_bot?start=z"
+                                    "Movie Bot 🎬", url=f"https://t.me/FilmNestPVT_Bot?start="
                                 )
                             ]
                         ]
@@ -132,7 +132,7 @@ async def broadcasting_func(client, message):
                             [
                                 InlineKeyboardButton(
                                     "ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ 🚩",
-                                    url=f"https://bit.ly/bisal",
+                                    url=f"https://t.me/nest_boy",
                                 )
                             ]
                         ]
@@ -159,7 +159,7 @@ async def broadcasting_func(client, message):
                                 [
                                     InlineKeyboardButton(
                                         "ᴀᴅᴍɪɴ sᴜᴘᴘᴏʀᴛ 🚩",
-                                        url=f"https://bit.ly/bisal",
+                                        url=f"https://t.me/nest_boy",
                                     )
                                 ]
                             ]
@@ -191,8 +191,8 @@ async def telegraph_upload(client, message):
                             [
                                 [
                                     InlineKeyboardButton(
-                                        "Join 🚩",
-                                        url=f"https://t.me/Bisal_Files_Talk",
+                                        "Join us",
+                                        url=f"https://t.me/Film_Nest",
                                     )
                                 ]
                             ]
@@ -245,7 +245,7 @@ async def telegraph_upload(client, message):
                     [
                         [
                             InlineKeyboardButton(
-                                "sᴛᴀʀᴛ ᴍᴇ 🚩", url=f"https://t.me/bisal_gpt_bot?start=z"
+                                "sᴛᴀʀᴛ ᴍᴇ 🚩", url=f"https://t.me/FilmNestpvt_bot?start=z"
                             )
                         ]
                     ]
