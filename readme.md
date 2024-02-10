@@ -1,4 +1,4 @@
-# Biisal GPT Bot
+# Nest GPT Bot
 
 Welcome to Biisal GPT Bot, a powerful AI chat bot created by @Biisal! This bot is designed to engage with users in conversation, providing intelligent responses and assistance across various topics.
 
@@ -34,9 +34,9 @@ We welcome feedback and contributions from the community to improve and expand t
 
 ## Support
 
-- **Support Group**: Join our support group on Telegram for discussions, feedback, and assistance: [Biisal Files Talk](https://t.me/Bisal_Files_Talk).
-- **Creator's Profile**: Connect with the creator on Telegram: [@Biisal](https://t.me/Biisal).
-- **Website**: Visit the creator's website for more information: [Biisal's Website](https://bit.ly/bisal).
+- **Support Group**: Join our support group on Telegram for discussions, feedback, and assistance: [FilmNest_Chat](https://t.me/Bisal_Files_Talk).
+- **Creator's Profile**: Connect with the creator on Telegram: [@Ayush](https://t.me/Nest_Boy).
+- **Website**: Visit the creator's website for more information: [Our Website](https://stream.zyxx1.link).
 
 ## License
 
